@@ -1,0 +1,12 @@
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\bin\Debug\AlgYProg.exe.config
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\bin\Debug\AlgYProg.exe
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\bin\Debug\AlgYProg.pdb
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\obj\Debug\AlgYProg.csprojResolveAssemblyReference.cache
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\obj\Debug\AlgYProg.exe
+C:\Users\herna\Documents\SharpDevelop Projects\Proyecto\AlgYProg\obj\Debug\AlgYProg.pdb
+C:\Users\herna\Desktop\Proyecto\AlgYProg\bin\Debug\AlgYProg.exe.config
+C:\Users\herna\Desktop\Proyecto\AlgYProg\bin\Debug\AlgYProg.exe
+C:\Users\herna\Desktop\Proyecto\AlgYProg\bin\Debug\AlgYProg.pdb
+C:\Users\herna\Desktop\Proyecto\AlgYProg\obj\Debug\AlgYProg.csprojResolveAssemblyReference.cache
+C:\Users\herna\Desktop\Proyecto\AlgYProg\obj\Debug\AlgYProg.exe
+C:\Users\herna\Desktop\Proyecto\AlgYProg\obj\Debug\AlgYProg.pdb
